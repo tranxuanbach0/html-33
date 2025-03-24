@@ -25,3 +25,4 @@ function renderProducts() {
         productlist.appendChild(div);
     });
 }
+renderProducts();
